@@ -1,0 +1,7 @@
+Visit the Museum.
+Help the neighbour
+Clean the bag
+Get the Laundry
+Added to Github
+App name is web_app_1
+https://github.com/Netizen26/web-app.git is Private Repository with the code for this webapp
