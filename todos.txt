@@ -1,7 +1,11 @@
 Visit the Museum.
 Help the neighbour
 Clean the bag
+<<<<<<< HEAD
 Get the Laundry
 Added to Github
 App name is web_app_1
 https://github.com/Netizen26/web-app.git is Private Repository with the code for this webapp
+=======
+Do the Laundry
+>>>>>>> 01cb93f90fca6a715747394a6263fcf9d7f9d54d
